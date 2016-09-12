@@ -1,0 +1,3 @@
+com\mycompany\omalovanyi\ws\rest\repository\ContactRepositoryTest.class
+com\mycompany\omalovanyi\ws\rest\service\ContactServiceTest.class
+com\mycompany\omalovanyi\ws\rest\web\ContactControllerTest.class

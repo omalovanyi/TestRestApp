@@ -1,0 +1,10 @@
+D:\GIT_TEST\TestRestApp\RESTfulWebServices\src\main\java\com\mycompany\omalovanyi\ws\rest\repository\impl\JdbcContactRepositoryImpl.java
+D:\GIT_TEST\TestRestApp\RESTfulWebServices\src\main\java\com\mycompany\omalovanyi\ws\rest\web\exception\ContactNotFoundException.java
+D:\GIT_TEST\TestRestApp\RESTfulWebServices\src\main\java\com\mycompany\omalovanyi\ws\rest\web\exception\GlobalControllerExceptionHandler.java
+D:\GIT_TEST\TestRestApp\RESTfulWebServices\src\main\java\com\mycompany\omalovanyi\ws\rest\web\controller\ContactController.java
+D:\GIT_TEST\TestRestApp\RESTfulWebServices\src\main\java\com\mycompany\omalovanyi\ApplicationWeb.java
+D:\GIT_TEST\TestRestApp\RESTfulWebServices\src\main\java\com\mycompany\omalovanyi\ws\rest\model\Contact.java
+D:\GIT_TEST\TestRestApp\RESTfulWebServices\src\main\java\com\mycompany\omalovanyi\ws\rest\service\ContactService.java
+D:\GIT_TEST\TestRestApp\RESTfulWebServices\src\main\java\com\mycompany\omalovanyi\ws\rest\web\exception\RestApplicationException.java
+D:\GIT_TEST\TestRestApp\RESTfulWebServices\src\main\java\com\mycompany\omalovanyi\ws\rest\service\impl\ContactServiceImpl.java
+D:\GIT_TEST\TestRestApp\RESTfulWebServices\src\main\java\com\mycompany\omalovanyi\ws\rest\repository\ContactRepository.java

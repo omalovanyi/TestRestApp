@@ -1,0 +1,11 @@
+com\mycompany\omalovanyi\ws\rest\model\Contact.class
+com\mycompany\omalovanyi\ws\rest\web\exception\GlobalControllerExceptionHandler.class
+com\mycompany\omalovanyi\ws\rest\repository\impl\JdbcContactRepositoryImpl$1.class
+com\mycompany\omalovanyi\ws\rest\service\ContactService.class
+com\mycompany\omalovanyi\ws\rest\web\controller\ContactController.class
+com\mycompany\omalovanyi\ws\rest\repository\impl\JdbcContactRepositoryImpl.class
+com\mycompany\omalovanyi\ws\rest\web\exception\RestApplicationException.class
+com\mycompany\omalovanyi\ApplicationWeb.class
+com\mycompany\omalovanyi\ws\rest\web\exception\ContactNotFoundException.class
+com\mycompany\omalovanyi\ws\rest\service\impl\ContactServiceImpl.class
+com\mycompany\omalovanyi\ws\rest\repository\ContactRepository.class
