@@ -1053,6 +1053,7 @@
       <workItem from="1473708948122" duration="1801000" />
       <workItem from="1473720355342" duration="291000" />
       <workItem from="1473720693234" duration="12000" />
+      <workItem from="1473721371113" duration="3000" />
     </task>
     <servers />
   </component>
@@ -1089,7 +1090,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="99922000" />
+    <option name="totallyTimeSpent" value="99925000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1249,7 +1250,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
