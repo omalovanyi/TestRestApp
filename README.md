@@ -1,1 +1,1 @@
-# TestRestApp
+# TestRestApp [![Build Status](https://travis-ci.org/omalovanyi/TestRestApp.svg?branch=master)](https://travis-ci.org/omalovanyi/TestRestApp)
